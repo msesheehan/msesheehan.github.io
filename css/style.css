@@ -29,14 +29,6 @@ body {
     box-sizing: border-box;
     }
 
-h2 {
-    font-size: 30px;
-    font-weight: 500;
-    padding: 0px;
-    margin: 0 auto 30px;
-    text-align: center;
-    }
-
 h3 {
     font-size: 25px;
     padding: 10px;
@@ -46,17 +38,6 @@ img {
     border: 2px ridge #FFFFFF;
     padding: 10px;
     text-align: center;
-}
-
-nav li,
-.social li {
-    text-align: center;
-    display: inline-block;
-    border-left: 1px solid #fff;
-    padding: 0 6px;
-    line-height: 1;
-    list-style-position: inside;
-    font-family: tahoma;
 }
 
 li {
